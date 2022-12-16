@@ -1,0 +1,3 @@
+# Interactive-Fiction
+
+The purpose of this project is to create a way for people to make an interactive fiction without having to keep track of everything they added to the game the hard way. Instead, this lets the user make choices and scenes without actually writing them in order as the scenes themselves contain the choices and the choices contain the results. It's a very small project and I have no idea how much I'm going to do with it yet, but, I'll likely make a trello for it if I play to do more with it later such as make it possible to add a full blown role playing game inside of with many other factors other games might not have. Just a little project. I'm fine with people forking.
